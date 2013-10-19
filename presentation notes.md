@@ -166,10 +166,33 @@ Choreography seemed to be the most exciting. Architecture as performance.
 
 ### Round 2
 
-###### Table A (presented by )
+###### Table A (presented by Kosta)
+- What are the specific applications we are exploring (as an evalution).
+- Camera that recognizes shapes in phyiscal space and connects them to the outside.
+- Studio-X as the example
+	- Dynamic pin-up board
+	- tumblr. "Stuff like this". each post progresses on the previous.
+- Limit the databases that it is interacting with, so that it can be more possible. 
+- Be more specific.
 
 
-###### Table B (presented by )
+###### Table B (presented by Dan TYL )
+- The technology is here, so the question is what do we do with the data?
+- Can you attach it to a medical study? It does not have to have a direct relation back to the space
+- What happens in the space? Can it affect the environment based off the data? Sound / Light?
+- Pairings of people (and their chairs) what does it say? Does a photograph get taken automatically?
+- No direct correlation between productivity and chair occupancy.
+- Surveillence could be aleved by tying it to health study, or just collecing for future.
+- 
 
 
-###### Table C (presented by )
+###### Table C (presented by Marina)
+- White Noise device
+- Data collection. "Brain" like the NSA
+- What are the implications in physical space?
+- Creating collection system, or output device, and how to display information if you want to.
+- And for what? Why do we need to continue to collect data if we are always surrounded by data.
+- 
+
+
+
