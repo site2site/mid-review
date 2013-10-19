@@ -2,7 +2,7 @@
 
 
 
-#### Sharevallience -------------
+#### Shareveillence -------------
 
 Kosta: Can it read shapes from the phone? If so, it could shorten the feedback loop.
 
@@ -104,9 +104,14 @@ You should focus on bluetooth LE. Built into iOS devices, and super lightweight.
 
 
 -----------------------
+## Brainstorm Session
+Table A: Shareveillence
+Table B: Object Oriented Office
+Table C: Studio Analytics
 
-### Round 1 
-######  Table A (ROB G)
+#### Round 1 
+
+######  Table A (presented by ROB G)
 - Teaching the computer to recognize specific graphics.
 - 
 
