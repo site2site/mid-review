@@ -183,7 +183,7 @@ Choreography seemed to be the most exciting. Architecture as performance.
 - Pairings of people (and their chairs) what does it say? Does a photograph get taken automatically?
 - No direct correlation between productivity and chair occupancy.
 - Surveillence could be aleved by tying it to health study, or just collecing for future.
-- 
+
 
 
 ###### Table C (presented by Marina)
@@ -192,7 +192,7 @@ Choreography seemed to be the most exciting. Architecture as performance.
 - What are the implications in physical space?
 - Creating collection system, or output device, and how to display information if you want to.
 - And for what? Why do we need to continue to collect data if we are always surrounded by data.
-- 
+
 
 
 
