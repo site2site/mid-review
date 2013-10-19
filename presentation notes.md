@@ -1,4 +1,8 @@
-Sharevallience -------------
+## Student Presentations 
+
+
+
+#### Sharevallience -------------
 
 Kosta: Can it read shapes from the phone? If so, it could shorten the feedback loop.
 
@@ -19,7 +23,7 @@ Rob: Is it more than AR? What makes it different, and what is the next step?
 
 
 
-Object Oriented Office  --------------
+#### Object Oriented Office  --------------
 
 Jeff: Do you have an agenda?
 
@@ -38,7 +42,7 @@ Rob: Can you take a problemist take. What kind of problems and dystopian conclus
 
 
 
-Studio Analytics  ------------------
+#### Studio Analytics  ------------------
 
 Dan: Why did you choose to do audio? Audio is really hard to work with due to its bouncy nature. You should have the conversation of 
 
@@ -56,9 +60,9 @@ Rick: Ths students are approaching this from the CS perspective, so to their def
 
 Jeff: Yea great, I agree, it sohuld happen. The question is how to move forward, because if there is a position, then you can have something to push against. It also allows collective understading of a goal.
 
+## Guest Presentations
 
-
-Ian -----
+#### Ian -----
 
 1. How does architecture connects with the internet? Is there a way to think about an architecture of distraction?
 2. Despite the enthusiaism for data stores, apis, etc. there has not been a substantial accepting / change in major cities. In informal cities, there is sonwhat of a requiremnt to naturaly hack their enviroment. Can the smart city, look to the shadow cities, developing cities as means of inspiration.
@@ -70,25 +74,25 @@ As for the smart city / shadow city. The technology is there, you are right. My 
 
 
 
-Dan TYL ----
+#### Dan TYL ----
 
 Visualization of when computer is on.
 Northpaw: Anklet that vibrates in the direction of north. Eventually becomes subconcious. It is an example of how technology becomes a sense as opposed to anobject you are interacting with. It can augment the want 
 
 
-Julia  -----
+#### Julia  -----
 
 Robot Readable World: A project looking at the how cameras and computers read the world. How are they identifiying social interactions, etc.. What do the machines see? How does that reflect what we created them to do, and what our culture is using them for?
 
 What are the phyiscal implications of server stacks, the cloud.. It is normally thought of abstractly, but there are phyiscal repercusisons.
 
 
-Rob -----
+#### Rob -----
 
 I was reading John Harwitz "The Interface". Found this quote. Specfically its reference to management, organization and logistics in the office, and the corporation, and how the computer has changed that. 
 
 
-Daniel P  -----
+#### Daniel P  -----
 
 You should focus on bluetooth LE. Built into iOS devices, and super lightweight. Very specific geofencing. "Not rad in hands of bad people. And mostly in their hands now"
 
@@ -103,7 +107,7 @@ You should focus on bluetooth LE. Built into iOS devices, and super lightweight.
 
 ### Round 1 
 ######  Table A (ROB G)
-- Teaching the graphic to recognize specific graphics.
+- Teaching the computer to recognize specific graphics.
 - 
 
 
