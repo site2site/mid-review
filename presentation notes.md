@@ -106,17 +106,19 @@ You should focus on bluetooth LE. Built into iOS devices, and super lightweight.
 -----------------------
 ## Brainstorm Session
 Table A: Shareveillence
+
 Table B: Object Oriented Office
+
 Table C: Studio Analytics
 
 #### Round 1 
 
 ######  Table A (presented by ROB G)
 - Teaching the computer to recognize specific graphics.
-- 
+- Creating a taxonomy of shapes across spaces.
 
 
-###### Table B (DAN P)
+###### Table B (presented by DAN P)
 FitButt: A Chair that has many modes of surveillance. Modes:
 - Executive: Only for the CEO. $42 Million. You can surveil your CEO. Workers watch the Boss
 - Prol: All workers hyper-surveilled. Works on your "dont be evil" campaign: large aggregation of anonymous data, or small granular individual level.
@@ -124,7 +126,7 @@ FitButt: A Chair that has many modes of surveillance. Modes:
 - Panopticon. You don't know which mode it's in
 
 
-###### Table C: (IAN C)
+###### Table C: (presented by IAN C)
 - Nonsense to Nonsense. ??
 - Quantified-self. Understand your own space. 
 	ex: using laughter to capture funny moments. Camera is always on, and specific events trigger it. 
@@ -134,12 +136,40 @@ FitButt: A Chair that has many modes of surveillance. Modes:
 
 ### Round 2
 
+###### Table A (presented by Julia)
+- Camera as collaborator. Identifying specific events that we want to track. 
+- Might produce false positives, and that is ok.
+- How is this indicated back to the room? ex: camera recognizes brainstorm session in other room, and other people in space become interested.
+- Using it to benefit the people in the space, vs the people outside of the space. 
 
 
 
+###### Table B (presented by Chris Leong)
+- Started by thinking about role of chair in office.
+- What is the idea of presence? Take the IRC as a precedent. What happens when you are not online? Where are you?
+- Moving away from surveillence, can it be a device for communication. Different positions/ directions can communicate your presense (online, not online etc..)
+- Social/collaborative Direction, Leisure mode
+- Can this signal to people outside the space
 
 
 
+###### Table C (presented by Karen W)
+- What does sound mean to your feelings?
+	- Volume (empty/full)
+	- Words (single words: architecture, love, fart)
+	- Rupture (what is edited sounds, sounds from other studio-x's )
+	- Choreogaphy (Sound triggers movement, movements triggers sound)
+
+Choreography seemed to be the most exciting. Architecture as performance.
 
 
 
+### Round 2
+
+###### Table A (presented by )
+
+
+###### Table B (presented by )
+
+
+###### Table C (presented by )
