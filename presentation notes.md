@@ -164,7 +164,7 @@ Choreography seemed to be the most exciting. Architecture as performance.
 
 
 
-### Round 2
+### Round 3
 
 ###### Table A (presented by Kosta)
 - What are the specific applications we are exploring (as an evalution).
